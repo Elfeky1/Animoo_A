@@ -1,0 +1,58 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter attach
+
+## exception
+
+StateError: Bad state: No element
+
+```
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel stable, 3.38.5, on Microsoft Windows [Version 10.0.19045.6466], locale en-US) [610ms]
+    [32m•[39m Flutter version 3.38.5 on channel stable at D:\src\flutter_windows_3.38.3-stable\flutter
+    [32m•[39m Upstream repository https://github.com/flutter/flutter.git
+    [32m•[39m Framework revision f6ff1529fd (7 weeks ago), 2025-12-11 11:50:07 -0500
+    [32m•[39m Engine revision 1527ae0ec5
+    [32m•[39m Dart version 3.10.4
+    [32m•[39m DevTools version 2.51.1
+    [32m•[39m Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets,
+      omit-legacy-version-file, enable-lldb-debugging
+
+[32m[✓][39m Windows Version (10 Pro 64-bit, 22H2, 2009) [2.4s]
+
+[32m[✓][39m Android toolchain - develop for Android devices (Android SDK version 36.1.0) [6.8s]
+    [32m•[39m Android SDK at C:\Users\Muhammad\AppData\Local\Android\sdk
+    [32m•[39m Emulator version 36.2.12.0 (build_id 14214601) (CL:N/A)
+    [32m•[39m Platform android-36, build-tools 36.1.0
+    [32m•[39m Java binary at: C:\Program Files\Eclipse Adoptium\jdk-17.0.17.10-hotspot\bin\java
+      This JDK is specified in your Flutter configuration.
+      To change the current JDK, run: `flutter config --jdk-dir="path/to/jdk"`.
+    [32m•[39m Java version OpenJDK Runtime Environment Temurin-17.0.17+10 (build 17.0.17+10)
+    [32m•[39m All Android licenses accepted.
+
+[32m[✓][39m Chrome - develop for the web [237ms]
+    [32m•[39m Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[32m[✓][39m Visual Studio - develop Windows apps (Visual Studio Community 2022 17.14.17) [235ms]
+    [32m•[39m Visual Studio at C:\Program Files\Microsoft Visual Studio\2022\Community
+    [32m•[39m Visual Studio Community 2022 version 17.14.36603.0
+    [32m•[39m Windows 10 SDK version 10.0.26100.0
+
+[32m[✓][39m Connected device (4 available) [339ms]
+    [32m•[39m SM A326B (mobile) • RFCRB04ZBWR • android-arm64  • Android 13 (API 33)
+    [32m•[39m Windows (desktop) • windows     • windows-x64    • Microsoft Windows [Version 10.0.19045.6466]
+    [32m•[39m Chrome (web)      • chrome      • web-javascript • Google Chrome 144.0.7559.59
+    [32m•[39m Edge (web)        • edge        • web-javascript • Microsoft Edge 144.0.3719.92
+
+[32m[✓][39m Network resources [1,289ms]
+    [32m•[39m All expected network resources are available.
+
+[32m•[39m No issues found!
+```
